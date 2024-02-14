@@ -1,7 +1,12 @@
 # Policy Vote Mobile App
-## Group Members:
-### 1- Osaid Zeyad
-### 2- Trinity Gordon
-### 3- Joshua Yu
-### 4- Jared Stewart
-### 5- Andy Kang
+## Group Members: Osaid Zeyad, Trinity Gordon, Joshua Yu, Jared Stewart, Andy Kang
+
+# Sprint 1 
+## Doing
+## Done: section 1-6
+
+# Sprint 2
+## Doing
+## Done: section 1-6
+
+# Sprint 3
