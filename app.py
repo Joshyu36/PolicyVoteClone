@@ -1,7 +1,9 @@
 from flask import Flask
+from login import LoginApp
 
 # Create a Flask application instance
 app = Flask(__name__)
+login_app = LoginApp()
 
 # Define a route and its associated view function
 @app.route('/')
